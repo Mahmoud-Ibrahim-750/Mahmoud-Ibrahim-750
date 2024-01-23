@@ -8,7 +8,7 @@
 <!-- Social Badges -->
 <div id="header" align="center">
   <div id="badges">
-    <a href="www.linkedin.com/in/mahmoud-ibrahim-750-profile">
+    <a href="https://www.linkedin.com/in/mahmoud-ibrahim-750-profile">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://stackoverflow.com/users/20139605/mahmoud-ibrahim">
