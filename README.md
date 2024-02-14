@@ -3,7 +3,7 @@
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, 
   I'm Mahmoud Ibrahim</h1>
-<h3 align="center">A creator at heart</h3>
+<h2 align="center">A creator at heart</h2>
 
 <!-- Social Badges -->
 <div id="header" align="center">
@@ -21,6 +21,15 @@
 
   <!-- GitHub Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Ibrahim-750&style=flat-square&color=blue" alt="Profile Views Counter Badge"/>
+  
+  <br/>
+
+  <!-- Connecting Statement Section -->
+  <!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em> 
+    <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+  </em>
+  -->
 </div>
 
 ---
@@ -28,7 +37,7 @@
 <!-- GitHub Profile Trophy Section -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-Ibrahim-750" alt="Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-Ibrahim-750&margin-w=10&no-bg=true&theme=dracula" alt="Profile Trophy" />
   </a>
 </p>
 
@@ -43,7 +52,7 @@
 
 </br>
 
-<!-- Connect with me Section -->
+<!-- Languages & Tools Section -->
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -56,7 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -72,7 +81,14 @@
 
 </br>
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- Stats Section -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 &nbsp; My Stats :
+
+<div id="stats_div" align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Mahmoud Ibrahim's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div/>
