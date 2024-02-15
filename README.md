@@ -85,6 +85,7 @@
 
 ### 🔥 &nbsp; My Stats :
 
+<!--
 <div id="stats_div" align="center">
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -92,3 +93,33 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Mahmoud Ibrahim's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div/>
+-->
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align=left width=48% height=240px src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent" alt="GitHub Stats">
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img align=right width=48% height=240px src="http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
+
+---
+</br>
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300" alt="Github Activity Graph">
+  </a>
+</div>
+
+
+
