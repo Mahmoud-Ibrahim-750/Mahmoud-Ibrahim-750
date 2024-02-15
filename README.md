@@ -95,6 +95,7 @@
 <div/>
 -->
 
+<!--
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align=left width=48% height=240px src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent" alt="GitHub Stats">
@@ -120,6 +121,28 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300" alt="Github Activity Graph">
   </a>
 </div>
+-->
 
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent" alt="GitHub Stats">
+  </a>
+</div>
 
+<div align=center>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300" alt="Github Activity Graph">
+  </a>
+</div>
