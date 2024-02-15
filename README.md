@@ -86,6 +86,7 @@
 ### 🔥 &nbsp; My Stats :
 
 <!--
+Buggy version
 <div id="stats_div" align="center">
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -96,31 +97,40 @@
 -->
 
 <!--
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=left width=48% height=240px src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent" alt="GitHub Stats">
-  </a>
-  
-  <a href="https://git.io/streak-stats">
-    <img align=right width=48% height=240px src="http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark" alt="GitHub Streak">
-  </a>
-</div>
+Buggy Version too
+<div style="display: flex; width: 95%; margin: auto; ">
 
----
-</br>
+        <div style="width: 100%; height:400px border; margin-right: 10px;"  >
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ibrahim-750&show_icons=true&theme=transparent"
+                    alt="GitHub Stats">
+            </a>
+        </div>
+
+        <div   style="width: 100%;" >
+            <a   href="https://git.io/streak-stats">
+                <img height="100%" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Ibrahim-750&theme=dark"
+                    alt="GitHub Streak">
+            </a>
+        </div>
+
+    </div>
+    
+    <div style="display: flex; justify-content:center; margin-top: 20px;">
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-  </a>
-</div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ibrahim-750&layout=compact&theme=vision-friendly-dark"
+                alt="Top Languages">
+        </a>
+    </div>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300" alt="Github Activity Graph">
-  </a>
-</div>
+    <div style="display: flex; justify-content:center; margin-top: 5px; " >
+        <a style="display: flex; justify-content: center;" href="https://github.com/ashutosh00710/github-readme-activity-graph">
+            <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Ibrahim-750&theme=github-compact&radius=10&height=300"
+                alt="Github Activity Graph">
+        </a>
+    </div>
 -->
 
 <div align=center>
